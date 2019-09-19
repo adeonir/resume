@@ -8,9 +8,9 @@
 
 ## Sobre mim
 
-Meu background em design gráfico me deu facilidade para trabalhar com UI Design. E com isso surgiu o interesse de trabalhar com desenvolvimento, principalmente frontend. Ultimamente tenho focado meus estudos em JavaScript, na lib React, React Native e todo seu ecosistema.
+Meu background em design gráfico me deu facilidade para trabalhar com CSS e UI Design. E com isso surgiu o interesse de trabalhar com desenvolvimento, principalmente frontend. Ultimamente tenho focado meus estudos em JavaScript, React, React Native e todo seu ecossistema.
 
-Passo meu tempo livre ajudando a comunidade open source, estudando, fotografando ou assistindo filmes e seriados.
+Passo meu tempo livre estudando, fotografando, ajudando a comunidade open source ou assistindo filmes e seriados.
 
 ## Habilidades
 
@@ -21,8 +21,9 @@ Passo meu tempo livre ajudando a comunidade open source, estudando, fotografando
 - Git
 - React
 - React Native
+- Styled-Components
 - Figma
-- Photoshop
+- Sketch
 
 ## Outros Conhecimentos
 
@@ -32,14 +33,16 @@ Passo meu tempo livre ajudando a comunidade open source, estudando, fotografando
 - Docker
 - MySQL
 - MongoDB
-- Postgresql
 - TDD
 - PHP
+- CakePHP
 - WordPress
+- Photoshop
+- Illustrator
 
 ## Experiência
 
-**Developer / Designer** - Freelancer / Janeiro 2008 - Presente
+**Developer / Designer** - Freelancer / Janeiro 2010 - Presente
 
 > Responsável pelo desenvolvimento de sites, landing pages e email newsletter (layout, prototipação e programação). Criação e elaboração de logotipos, material de expediente e demais peças gráficas.
 
@@ -61,27 +64,30 @@ Passo meu tempo livre ajudando a comunidade open source, estudando, fotografando
 
 ## Alguns Projetos
 
-[React Todo-List](https://github.com/adeonir/react-todo)
+[Chat with Warren Bot](https://github.com/adeonir/challenge-warren-bot)
 
-[GitHub Compare](https://github.com/adeonir/curso-goreact-desafio-2)
+[Spotify Clone](https://github.com/adeonir/react-spotify-clone)
 
-[BooksApp](https://github.com/adeonir/books-app)
+[Todo-List](https://github.com/adeonir/react-my-todo)
+
+[GitHub Compare](https://github.com/adeonir/react-github-compare)
 
 ## Cursos
 
 - JavaScript e ES6
 - Git e Github
+- Gatsby, GraphQL, PWA (em andamento)
+- JavaScript com TDD (em andamento)
 - NodeJS, ReactJS e React Native (em andamento)
-- JavaScript com TDD na Prática (em andamento)
 - UI Design Avançado (em andamento)
 - UX Design Heurísticas (em andamento)
+- WordPress REST API (em andamento)
 - SVG
 - CakePHP
-- WordPress
-- WordPress REST API (em andamento)
+- Temas WordPress
 
 # Idiomas
 
 Português - Nativo
 
-Inglês - Fluente na leitura, básico na escrita, escuta e diálogo
+Inglês - Intermediário na leitura e escrita, básico no diálogo

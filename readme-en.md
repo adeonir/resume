@@ -8,9 +8,9 @@
 
 ## About me
 
-My background in graphic design gave me ease to work with UI Design. And with this came the interest of working with development, mainly frontend. Lately I've focused my studies on JavaScript, React lib and its entire ecosystem.
+My background in graphic design gave me ease to work with CSS and UI Design. And with this came the interest of working with development, mainly frontend. Lately I've focused my studies on JavaScript, React, React Native and its entire ecosystem.
 
-I spend my free time helping the open source community, studying, photographing or watching movies and TV shows.
+I spend my free time studying, photographing, helping the open source community or watching movies and TV shows.
 
 ## Skills
 
@@ -21,8 +21,9 @@ I spend my free time helping the open source community, studying, photographing 
 - Git
 - React
 - React Native
+- Styled-Components
 - Figma
-- Photoshop
+- Sketch
 
 ## Other Knowledges
 
@@ -32,14 +33,16 @@ I spend my free time helping the open source community, studying, photographing 
 - Docker
 - MySQL
 - MongoDB
-- Postgresql
 - TDD
 - PHP
+- CakePHP
 - WordPress
+- Photoshop
+- Illustrator
 
 ## Work experience
 
-**Developer / Designer** - Freelancer / January 2008 - Present
+**Developer / Designer** - Freelancer / January 2010 - Present
 
 > Responsible for the development of websites, landing pages and email newsletter (layout, prototyping and programming). Creation and elaboration of logos, office supplies and other graphic pieces.
 
@@ -53,35 +56,38 @@ I spend my free time helping the open source community, studying, photographing 
 
 ## Education
 
-**Fullstack Web Development - Rocketseat** / February 2018 - In progress
+**Fullstack Web Development - Rocketseat** / February 2018 (in progress)
 
-**Fullstack Web Development - freeCodeCamp** / January 2017 - In progress
+**Fullstack Web Development - freeCodeCamp** / January 2017 (in progress)
 
-**Bacharel's Degree in Computer Science - UoPeople** / September 2017 - Not finished
+**Bacharel's Degree in Computer Science - UoPeople** / September 2017 - (not finished)
 
 ## Some Projects
 
-[React Todo-List](https://github.com/adeonir/react-todo)
+[Chat with Warren Bot](https://github.com/adeonir/challenge-warren-bot)
 
-[GitHub Compare](https://github.com/adeonir/curso-goreact-desafio-2)
+[Spotify Clone](https://github.com/adeonir/react-spotify-clone)
 
-[BooksApp](https://github.com/adeonir/books-app)
+[Todo-List](https://github.com/adeonir/react-my-todo)
+
+[GitHub Compare](https://github.com/adeonir/react-github-compare)
 
 ## Courses
 
 - JavaScript e ES6
 - Git e Github
+- Gatsby, GraphQL, PWA (in progress)
+- JavaScript com TDD (in progress)
 - NodeJS, ReactJS e React Native (in progress)
-- JavaScript com TDD na Prática (in progress)
 - UI Design Avançado (in progress)
 - UX Design Heurísticas (in progress)
+- WordPress REST API (in progress)
 - SVG
 - CakePHP
-- WordPress
-- WordPress REST API (in progress)
+- Temas WordPress
 
 ## Languages
 
 Portuguese - Native
 
-English - Fluent in reading, basic in writing, listening and speaking
+English - Intermediate reading and writing, basic in dialogue
