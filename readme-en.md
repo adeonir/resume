@@ -8,9 +8,9 @@
 
 ## About me
 
-My background in graphic design gave me ease to work with CSS and UI Design. And with this came the interest of working with development, mainly frontend. Lately I've focused my studies on JavaScript, React, React Native and its entire ecosystem.
+I've been working as a Frontend Developer for 5 years, but before that I worked in conventional graphics for many years. It was in the creation of layouts for websites that came the interest of working with development, especially frontend. My background in graphic design made it easy for me to work with CSS and UI Design. Lately I've been focusing my studies on JavaScript, the React lib, React Native, Styled-Components and all this ecosystem.
 
-I spend my free time studying, photographing, helping the open source community or watching movies and TV shows.
+I spend my free time studying, photographing, cooking, helping the open source community or watching movies and TV shows.
 
 ## Skills
 

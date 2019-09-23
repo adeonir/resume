@@ -8,9 +8,9 @@
 
 ## Sobre mim
 
-Meu background em design gráfico me deu facilidade para trabalhar com CSS e UI Design. E com isso surgiu o interesse de trabalhar com desenvolvimento, principalmente frontend. Ultimamente tenho focado meus estudos em JavaScript, React, React Native e todo seu ecossistema.
+Trabalho há 5 anos como Desenvolvedor Frontend, mas antes disso eu trabalhei em gráfica convencional por muitos anos. Foi na criação de layouts para sites que surgiu o interesse de trabalhar com desenvolvimento, principalmente frontend. Meu background em design gráfico me deu facilidade para trabalhar com CSS e UI Design. Ultimamente tenho focado meus estudos em JavaScript, nas libs React, React Native, Styled-Components e todo esse ecossistema.
 
-Passo meu tempo livre estudando, fotografando, ajudando a comunidade open source ou assistindo filmes e seriados.
+Passo meu tempo livre estudando, fotografando, cozinhando, ajudando a comunidade open source ou assistindo filmes e seriados.
 
 ## Habilidades
 
