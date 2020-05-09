@@ -4,13 +4,19 @@
 
 **E-mail:** adeonir@gmail.com
 
+**LinkedIn:** https://www.linkedin.com/in/adeonir/
+
 **Telegram/Skype:** adeonir
+
+> _\* Want to read this in [English](./readme-en.md)?_
+
+---
 
 ## Sobre mim
 
-Trabalho há 5 anos como Desenvolvedor Frontend, mas antes disso eu trabalhei em gráfica convencional por muitos anos. Foi na criação de layouts para sites que surgiu o interesse de trabalhar com desenvolvimento, principalmente frontend. Meu background em design gráfico me deu facilidade para trabalhar com CSS e UI Design. Ultimamente tenho focado meus estudos em JavaScript, nas libs React, React Native, Styled-Components e todo esse ecossistema.
+Trabalho desde 2015 como desenvolvedor front-end, mas antes disso eu trabalhei em gráfica convencional por muitos anos. Foi no web design que surgiu o interesse de trabalhar com desenvolvimento, principalmente frontend. Meu background em design gráfico me deu facilidade para trabalhar com CSS e UI Design. Ultimamente tenho focado meus estudos em JavaScript, nas libs React, React Native, Styled-Components e todo esse ecossistema.
 
-Passo meu tempo livre estudando, fotografando, cozinhando, ajudando a comunidade open source ou assistindo filmes e seriados.
+Passo meu tempo livre estudando, assistindo filmes e séries, cozinhando ou ajudando a comunidade open source.
 
 ## Habilidades
 
@@ -27,26 +33,27 @@ Passo meu tempo livre estudando, fotografando, cozinhando, ajudando a comunidade
 
 ## Outros Conhecimentos
 
-- Linux
-- MacOS
-- Node
-- Docker
-- MySQL
-- MongoDB
-- TDD
+- MacOS/Linux
 - PHP
-- CakePHP
 - WordPress
+- MySQL
+- Docker
+- TDD
+- Bootstrap
 - Photoshop
 - Illustrator
 
 ## Experiência
 
-**Developer / Designer** - Freelancer / Janeiro 2010 - Presente
+**Front-end Developer** - Joyjet - Agência Digital / Novembro 2019 - Presente
+
+> Responsável pela integração do design dos sites e aplicativos produzidos pela agência, deixando a interface pronta para receber a lógica e as regras de negócio.
+
+**Web Developer / Designer** - Freelancer / Janeiro 2010 - Presente
 
 > Responsável pelo desenvolvimento de sites, landing pages e email newsletter (layout, prototipação e programação). Criação e elaboração de logotipos, material de expediente e demais peças gráficas.
 
-**Developer / Designer** - Bonfanti Peças para Caminhões / Dezembro 2012 - Presente
+**Web Developer / Graphic Designer** - Bonfanti - Peças para Caminhões / Dezembro 2012 - Outubro 2019
 
 > Responsável pelo desenvolvimento dos sites institucionais e também pela fotografia dos produtos e edição de catálogos.
 
@@ -64,21 +71,22 @@ Passo meu tempo livre estudando, fotografando, cozinhando, ajudando a comunidade
 
 ## Alguns Projetos
 
+[Rocketshoes](https://github.com/adeonir/rocketshoes-react)
+
 [Chat with Warren Bot](https://github.com/adeonir/challenge-warren-bot)
 
 [Spotify Clone](https://github.com/adeonir/react-spotify-clone)
 
 [Todo-List](https://github.com/adeonir/react-my-todo)
 
-[GitHub Compare](https://github.com/adeonir/react-github-compare)
-
 ## Cursos
 
 - JavaScript e ES6
 - Git e Github
-- Gatsby, GraphQL, PWA (em andamento)
-- JavaScript com TDD (em andamento)
-- NodeJS, ReactJS e React Native (em andamento)
+- Gatsby, GraphQL e PWA
+- React Ninja (em andamento)
+- NodeJS, ReactJS e React Native
+- TDD com JavaScript (em andamento)
 - UI Design Avançado (em andamento)
 - UX Design Heurísticas (em andamento)
 - WordPress REST API (em andamento)

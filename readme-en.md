@@ -4,7 +4,13 @@
 
 **E-mail:** adeonir@gmail.com
 
+**LinkedIn:** https://www.linkedin.com/in/adeonir/
+
 **Telegram/Skype:** adeonir
+
+> _\* Quer ler isto em [Português](./readme.md)?_
+
+---
 
 ## About me
 
@@ -27,26 +33,27 @@ I spend my free time studying, photographing, cooking, helping the open source c
 
 ## Other Knowledges
 
-- Linux
-- MacOS
-- Node
-- Docker
-- MySQL
-- MongoDB
-- TDD
+- MacOS/Linux
 - PHP
-- CakePHP
 - WordPress
+- MySQL
+- Docker
+- TDD
+- Bootstrap
 - Photoshop
 - Illustrator
 
 ## Work experience
 
-**Developer / Designer** - Freelancer / January 2010 - Present
+**Front-end Developer** - Joyjet - Digital Agency / November 2019 - Presente
+
+> Responsible for the integration of design on the websites and applications made by the agency, leaving the interface ready to receive the logic and the business rules.
+
+**Web Developer / Designer** - Freelancer / January 2010 - Present
 
 > Responsible for the development of websites, landing pages and email newsletter (layout, prototyping and programming). Creation and elaboration of logos, office supplies and other graphic pieces.
 
-**Developer / Designer** - Bonfanti Peças para Caminhões / December 2012 - Present
+**Web Developer / Graphic Designer** - Bonfanti - Peças para Caminhões / December 2012 - October 2019
 
 > Responsible for the development of the institutional sites and also for the photography of the products and edition of catalogs.
 
@@ -64,27 +71,28 @@ I spend my free time studying, photographing, cooking, helping the open source c
 
 ## Some Projects
 
+[Rocketshoes](https://github.com/adeonir/rocketshoes-react)
+
 [Chat with Warren Bot](https://github.com/adeonir/challenge-warren-bot)
 
 [Spotify Clone](https://github.com/adeonir/react-spotify-clone)
 
 [Todo-List](https://github.com/adeonir/react-my-todo)
 
-[GitHub Compare](https://github.com/adeonir/react-github-compare)
-
 ## Courses
 
-- JavaScript e ES6
-- Git e Github
-- Gatsby, GraphQL, PWA (in progress)
-- JavaScript com TDD (in progress)
-- NodeJS, ReactJS e React Native (in progress)
+- JavaScript and ES6
+- Git and Github
+- Gatsby, GraphQL and PWA
+- React Ninja (in progress)
+- NodeJS, ReactJS and React Native
+- TDD with JavaScript (in progress)
 - UI Design Avançado (in progress)
 - UX Design Heurísticas (in progress)
 - WordPress REST API (in progress)
 - SVG
 - CakePHP
-- Temas WordPress
+- WordPress Themes
 
 ## Languages
 
