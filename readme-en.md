@@ -87,8 +87,8 @@ I spend my free time studying, photographing, cooking, helping the open source c
 - React Ninja (in progress)
 - NodeJS, ReactJS and React Native
 - TDD with JavaScript (in progress)
-- UI Design Avançado (in progress)
-- UX Design Heurísticas (in progress)
+- UI Design Advanced (in progress)
+- UX Design Heuristics (in progress)
 - WordPress REST API (in progress)
 - SVG
 - CakePHP
@@ -98,4 +98,4 @@ I spend my free time studying, photographing, cooking, helping the open source c
 
 Portuguese - Native
 
-English - Intermediate reading and writing, basic in dialogue
+English - Intermediate for reading and writing, beginner in dialogue
